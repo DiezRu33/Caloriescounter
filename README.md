@@ -1,1 +1,3 @@
 # Caloriescounter
+
+credits Lukita Dobrovolski 🐐
